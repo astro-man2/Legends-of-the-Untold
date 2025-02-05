@@ -1,11 +1,9 @@
+Legends of the untold is ttrpg in progress.
+[Learn about Species](https://github.com/astro-man2/Legends-of-the-Untold/blob/main/Species.md)
+[Learn about Gods](https://github.com/astro-man2/Legends-of-the-Untold/blob/main/gods.md)
 
 
+#### Obsidian
 [[Species]]
-[Species](https://github.com/astro-man2/Legends-of-the-Untold/blob/main/Species.md)
-
-
-[gods](https://github.com/astro-man2/Legends-of-the-Untold/blob/main/gods.md)
-
-
-
+[[Gods]]
 https://github.com/astro-man2/Legends-of-the-Untold/blob/main/---.md
